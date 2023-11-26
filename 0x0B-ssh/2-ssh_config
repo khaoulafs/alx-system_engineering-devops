@@ -1,0 +1,9 @@
+# SSH Config File
+#
+Host web-01
+	Hostname c0df742cfcac.395c03bf.alx-cod.online
+	User c0df742cfcac
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
+
+
